@@ -1,2 +1,0 @@
-# aquacole
-aquacole.fr
